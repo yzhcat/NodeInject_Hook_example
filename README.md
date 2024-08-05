@@ -28,3 +28,11 @@ This fake license is not valid and just used for **testing**. Please do not use 
 - [x] hook `electron-fetch` for sniffing request
 - [ ] Full version compatibility (older version not using `electron-fetch` and may fail in the future)
 - [ ] Multi os compatibility (not work in macOS)
+
+#### 使用方法
+
+1. 进入到安装目录，然后在此打开 `Windows Terminal` 
+2. 先运行 `node_inject.exe` 
+3. 再运行 `license-gen.exe`
+
+> 直接拖进去既可
